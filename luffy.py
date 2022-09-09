@@ -3,7 +3,7 @@ import turtle
 turtle.bgcolor("black")
 turtle.pencolor("blue")
 turtle.pensize(5)
-turtle.speed(0)
+turtle.speed(10)
 
 turtle.begin_fill()
 turtle.fillcolor("yellow")
